@@ -11,7 +11,7 @@ body {
 .container {
     display: block;
     margin: 0 auto;
-    position: fixed;
+    position: relative;
     width: 1590px;
     height: 1250px;
     background: url(Page2.gif);
@@ -28,9 +28,9 @@ body {
  
 
 #box_1 {
-    top: 352px;
+    top: 350px;
     left: 1200px;
-    position: absolute;
+    position: fixed;
     width: 396px;
     height: 928px;
     opacity: 0;
