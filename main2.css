@@ -13,7 +13,7 @@ body {
     margin: 0 auto;
     width: 1590px;
     height: 1280px;
-    background: url(images/Page2.gif);
+    background: url(Page2.gif);
     object-fit: cover;
     background-repeat: no-repeat;
     background-position: right;
@@ -34,7 +34,7 @@ body {
     width: 396px;
     height: 928px;
     opacity: 0;
-    background: url(Buttons/Page2_PeaceLily.png);
+    background: url(Page2_PeaceLily.png);
     animation: opacityOn 1s normal forwards step-end;
     animation-delay: 3s;
 }
@@ -58,11 +58,11 @@ body {
     position: absolute;
     width: 117px;
     height: 60px;
-    background: url(Buttons/BackButton.png);
+    background: url(BackButton.png);
     
 }
 
 #box_2:hover {
-    background: url(Buttons/BackButtonOVER.png);
+    background: url(BackButtonOVER.png);
     
 }
