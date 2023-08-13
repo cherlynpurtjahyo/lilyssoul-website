@@ -11,11 +11,10 @@ body {
 .container {
     display: block;
     margin: 0 auto;
-    position: absolute;
+    position: right;
     width: 1590px;
     height: 1250px;
     background: url(Page2.gif);
-    object-fit: cover;
     background-repeat: no-repeat;
     background-position: left;
     background: contain;
