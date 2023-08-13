@@ -22,18 +22,19 @@ body {
 }
 .boxA {
     display: block;
-    background: transparent;    
+    background: transparent;
+    background: contain;
 }
  
 
 #box_1 {
+    background: url(Page2_PeaceLily.png);
     top: 310px;
-    left: 1300px;
+    left: 1400px;
     position: absolute;
     width: 396px;
     height: 928px;
     opacity: 0;
-    background: url(Page2_PeaceLily.png);
     animation: opacityOn 1s normal forwards step-end;
     animation-delay: 3s;
 }
@@ -54,7 +55,7 @@ body {
    
     top: 1145px;
     left: 80px;
-    position: fixed;
+    position: absolute;
     width: 117px;
     height: 60px;
     background: url(BackButton.png);
