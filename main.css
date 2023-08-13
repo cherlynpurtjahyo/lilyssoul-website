@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: white;
+}
+
+.container {
+    display: block; 
+    margin: 0 auto;
+    width: 1920px;
+    height: 1280px;
+    background-image: url(images/IndexPage.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#myMusic {
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+    width: 300px;
+    background: transparent;
+    background-size: cover;
+}
+
+.box {
+    display: block;
+    position: relative;
+    width: 619px;
+    height: 125px;
+    background: transparent;    
+}
+ 
+
+#box_1 {
+    background: url(Buttons/IndexPage_Button.png);
+    top: 800px;
+    left: 490px;
+    
+}
+
+#box_1:hover {
+    background: url(Buttons/IndexPage_ButtonOVER.png);
+    
+}
