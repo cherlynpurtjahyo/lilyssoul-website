@@ -13,7 +13,7 @@ body {
     position: relative;
     width: 1590px;
     height: 1250px;
-    background: url(images/Page4.gif);
+    background: url(Page4.gif);
     background-repeat: no-repeat;
     background: contain;
     
@@ -29,12 +29,12 @@ body {
     position: absolute;
     width: 117px;
     height: 60px;
-    background: url(Buttons/BackButton.png);
+    background: url(BackButton.png);
     
 }
 
 #box_1:hover {
-    background: url(Buttons/BackButtonOVER.png);
+    background: url(BackButtonOVER.png);
     
 }
 #box_2 {
@@ -44,10 +44,10 @@ body {
     position: absolute;
     width: 117px;
     height: 60px;
-    background: url(Buttons/NextButton.png);
+    background: url(NextButton.png);
 }
 
 #box_2:hover {
-    background: url(Buttons/DarkerNextButton.png);
+    background: url(DarkerNextButton.png);
     
 }
