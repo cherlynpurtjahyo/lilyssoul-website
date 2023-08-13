@@ -30,7 +30,7 @@ body {
 #box_1 {
     top: 350px;
     left: 1200px;
-    position: absolute;
+    position: relative;
     width: 396px;
     height: 928px;
     opacity: 0;
