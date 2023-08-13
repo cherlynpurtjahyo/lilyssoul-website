@@ -31,8 +31,8 @@ body {
 #box_1 {
     background: url(Page2_PeaceLily.png);
     top: 352px;
-    right: 30px;
-    position: absolute;
+    right: 0px;
+    position: relative;
     width: 396px;
     height: 928px;
     opacity: 0;
