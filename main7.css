@@ -11,8 +11,8 @@ body {
     display: block; 
     margin: 0 auto;
     width: 1590px;
-    height: 1280px;
-    background: url(images/Page7.gif);
+    height: 1250px;
+    background: url(Page7.gif);
     object-fit: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -31,11 +31,11 @@ body {
     position: absolute;
     width: 117px;
     height: 60px;
-    background: url(Buttons/BackButton.png);
+    background: url(BackButton.png);
 }
 
 #box_1:hover {
-    background: url(Buttons/BackButtonOVER.png);
+    background: url(BackButtonOVER.png);
     
 }
 .boxB {
@@ -50,7 +50,7 @@ body {
     width: 86px;
     height: 75px;
     opacity: 0;
-    background: url(Buttons/RedStar.png);
+    background: url(RedStar.png);
     animation: opacityOn 0s normal forwards step-end;
     animation-delay: 6,1s;
 }
@@ -66,7 +66,7 @@ body {
 }
 
 #box_2:hover {
-    background: url(Buttons/RedStar.png);
+    background: url(/RedStar.png);
     
     
 }
