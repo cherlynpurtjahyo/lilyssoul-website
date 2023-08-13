@@ -12,7 +12,7 @@ body {
     margin: 0 auto;
     width: 1590px;
     height: 1280px;
-    background: url(images/Page6.gif);
+    background: url(Page6.gif);
     object-fit: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -30,12 +30,12 @@ body {
     position: absolute;
     width: 117px;
     height: 60px;
-    background: url(Buttons/BackButton.png);
+    background: url(BackButton.png);
     
 }
 
 #box_1:hover {
-    background: url(Buttons/BackButtonOVER.png);
+    background: url(BackButtonOVER.png);
     
 }
 .boxB {
@@ -50,7 +50,7 @@ body {
     width: 169px;
     height: 223px;
     opacity: 0;
-    background: url(Buttons/MoonPage6.png);
+    background: url(MoonPage6.png);
     animation: opacityOn 0s normal forwards step-end;
     animation-delay: 1,2s;
 }
@@ -66,7 +66,7 @@ body {
 }
 
 #box_2:hover {
-    background: url(Buttons/MoonPage6.png);
+    background: url(MoonPage6.png);
     
     
 }
