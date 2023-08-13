@@ -16,7 +16,6 @@ body {
     height: 1250px;
     background: url(Page2.gif);
     background-repeat: no-repeat;
-    background-position: right;
     background: contain;
     
     
@@ -55,7 +54,7 @@ body {
    
     top: 1145px;
     left: 80px;
-    position: afixed;
+    position: fixed;
     width: 117px;
     height: 60px;
     background: url(BackButton.png);
