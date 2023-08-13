@@ -16,6 +16,7 @@ body {
     height: 1250px;
     background: url(Page2.gif);
     background-repeat: no-repeat;
+    background-position: right;
     background: contain;
     
     
