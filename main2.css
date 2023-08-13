@@ -51,14 +51,13 @@ body {
     background: transparent;    
 }
 #box_2 {
-
+   
     top: 1145px;
-    left: 100px;
+    left: 80px;
     position: absolute;
     width: 117px;
     height: 60px;
     background: url(BackButton.png);
-    
 }
 
 #box_2:hover {
