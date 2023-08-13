@@ -12,7 +12,7 @@ body {
     margin: 0 auto;
     width: 1590px;
     height: 1280px;
-    background: url(images/Page9.gif);
+    background: url(Page9.gif);
     object-fit: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -30,12 +30,12 @@ body {
     position: absolute;
     width: 117px;
     height: 60px;
-    background: url(Buttons/BackButton.png);
+    background: url(BackButton.png);
     
 }
 
 #box_1:hover {
-    background: url(Buttons/BackButtonOVER.png);
+    background: url(BackButtonOVER.png);
     
 }
 #box_2 {
@@ -45,11 +45,11 @@ body {
     position: absolute;
     width: 117px;
     height: 60px;
-    background: url(Buttons/NextButton.png);
+    background: url(NextButton.png);
 }
 
 #box_2:hover {
-    background: url(Buttons/DarkerNextButton.png);
+    background: url(DarkerNextButton.png);
     
 }
 
@@ -72,7 +72,7 @@ body {
 }
 
 #box_3:hover {
-    background: url(images/Text1_Page9.png);
+    background: url(Text1_Page9.png);
     
 }
 
@@ -89,6 +89,6 @@ body {
 }
 
 #box_4:hover {
-    background: url(images/Text2_Page9.png);
+    background: url(Text2_Page9.png);
     
 }
