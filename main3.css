@@ -14,7 +14,10 @@ body {
     width: 1920px;
     height: 1250px;
     background: url(Page3.png);
+    object-fit: cover;
     background-repeat: no-repeat;
+    background-position: center;
+    background: contain;
     
 }
 .boxA {
