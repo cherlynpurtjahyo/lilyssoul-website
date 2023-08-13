@@ -19,9 +19,9 @@ body {
     background-repeat: no-repeat;
     background-position: right;
     background: contain;
+    background-size: 100%;
    
-    
-    
+      
 }
 .boxA {
     display: block;
