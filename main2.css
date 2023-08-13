@@ -10,15 +10,15 @@ body {
 
 .container {
     display: block;
+    margin: 0 auto;
     position: relative;
     width: 1590px;
     height: 1250px;
     background-image: url(Page2.gif);
+    object-fit: cover;
     background-repeat: no-repeat;
     background-position: right;
-    background-size: cover;
     background: contain;
-   
    
     
     
