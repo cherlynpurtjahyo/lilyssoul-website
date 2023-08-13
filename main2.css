@@ -32,7 +32,7 @@ body {
     background: url(Page2_PeaceLily.png);
     top: 345px;
     right: 0px;
-    position: relative;
+    position: absolute;
     width: 396px;
     height: 928px;
     opacity: 0;
