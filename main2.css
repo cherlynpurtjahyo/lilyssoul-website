@@ -56,7 +56,7 @@ body {
    
     top: 1050px;
     left: 80px;
-    position: absolute;
+    position: relative;
     width: 117px;
     height: 60px;
     background: url(BackButton.png);
