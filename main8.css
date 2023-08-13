@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: white;
+}
+
+.container {
+    display: block; 
+    margin: 0 auto;
+    width: 1590px;
+    height: 1280px;
+    background: url(images/Page8.gif);
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background: contain;
+    
+}
+.boxA {
+    display: block;
+    background: transparent;    
+}
+#box_1 {
+    
+    top: 1145px;
+    left: 80px;
+    position: absolute;
+    width: 117px;
+    height: 60px;
+    background: url(Buttons/BackButton.png);
+}
+
+#box_1:hover {
+    background: url(Buttons/BackButtonOVER.png);
+    
+}
+#box_2 {
+   
+    top: 1145px;
+    left: 1400px;
+    position: absolute;
+    width: 117px;
+    height: 60px;
+    background: url(Buttons/NextButton.png);
+}
+
+#box_2:hover {
+    background: url(Buttons/DarkerNextButton.png);
+    
+}
+.boxB {
+    display: block;
+    background: transparent;
+    
+}
+
+#box_3 {
+   
+    top: 650px;
+    left: 700px;
+    position: absolute;
+    width: 611px;
+    height: 173px;
+    background: transparent;
+    background: contain;
+    
+}
+
+#box_3:hover {
+    background: url(images/Text%201_Page8.png);
+    
+}
+
+#box_4 {
+   
+    top: 900px;
+    left: 900px;
+    position: relative;
+    width: 526px;
+    height: 163px;
+    background: transparent;
+    background: contain;
+    
+}
+
+#box_4:hover {
+    background: url(images/Text2_Page8.png);
+    
+}

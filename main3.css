@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: lightgrey;
+}
+
+.container {
+    display: block; 
+    margin: 0 auto
+    width: 1920px;
+    height: 1280px;
+    background: url(Page3.png);
+    background-repeat: no-repeat;
+    
+}
+.boxA {
+    display: block;
+    position: relative;
+    width: 135px;
+    height: 139px;
+    background: transparent;    
+}
+ 
+
+#box_1 {
+    background: url(Page3_Dust.png);
+    top: 835px;
+    left: 475px;
+    
+}
+.boxB{
+    display: block;
+    position: relative;
+    width: 117px;
+    height: 60px;
+    background: transparent;    
+}
+#box_2 {
+    background: url(BackButton.png);
+    top: 1010px;
+    left: 80px;
+    
+}
+
+#box_2:hover {
+    background: url(BackButtonOVER.png);
+    
+}

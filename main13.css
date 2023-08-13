@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: white;
+}
+
+.container {
+    display: block; 
+    margin: 0 auto;
+    width: 1590px;
+    height: 1280px;
+    background: url(Page13.png);
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+    background: contain;
+    
+}
+.boxA {
+    display: block;
+    background: transparent;    
+}
+#box_1 {
+
+    top: 1150px;
+    left: 80px;
+    position: absolute;
+    width: 117px;
+    height: 60px;
+    background: url(BackButton.png);
+    
+}
+
+#box_1:hover {
+    background: url(BackButtonOVER.png);
+    
+}
+.boxB {
+    display: block;
+    background: transparent;    
+}
+#box_2 {
+
+    top: 1090px;
+    left: 1400px;
+    position: absolute;
+    width: 118px;
+    height: 118px;
+    background: url(HomeButton.png);
+    
+}
+
+#box_2:hover {
+    background: url(HomeButton.png);
+    
+    
+}
