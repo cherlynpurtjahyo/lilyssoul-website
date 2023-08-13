@@ -10,6 +10,7 @@ body {
 .container {
     display: block; 
     margin: 0 auto;
+    position: relative;
     width: 1920px;
     height: 1250px;
     background: url(Page3.png);
