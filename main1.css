@@ -13,7 +13,7 @@ body {
     position: relative;
     width: 1590px;
     height: 1250px;
-    background: url(images/Page1.png);
+    background: url(Page1.png);
     background-repeat: no-repeat;
     background: contain;
     
@@ -30,25 +30,25 @@ body {
     position: absolute;
     width: 117px;
     height: 60px;
-    background: url(Buttons/BackButton.png);
+    background: url(BackButton.png);
 }
 
 #box_1:hover {
-    background: url(Buttons/BackButtonOVER.png);
+    background: url(BackButtonOVER.png);
     
 }
 #box_2 {
-    background: url(Buttons/NextButton.png);
+    background: url(NextButton.png);
     top: 1145px;
     left: 1400px;
     position: absolute;
     width: 117px;
     height: 60px;
-    background: url(Buttons/NextButton.png);
+    background: url(NextButton.png);
 }
 
 #box_2:hover {
-    background: url(Buttons/DarkerNextButton.png);
+    background: url(DarkerNextButton.png);
     
 }
 .boxB {
@@ -63,7 +63,7 @@ body {
     position: absolute;
     width: 770px;
     height: 466px;
-    background-image: url(Buttons/BeforeFlipCloud_Page1.png);
+    background-image: url(BeforeFlipCloud_Page1.png);
     background-size: contain;
     background-repeat: no-repeat;
     
@@ -71,6 +71,6 @@ body {
 #box_3:hover{
     width: 770px;
     height: 466px;
-    background-image: url(Buttons/AfterFlipCloud_Page1.png);
+    background-image: url(AfterFlipCloud_Page1.png);
     
 }
