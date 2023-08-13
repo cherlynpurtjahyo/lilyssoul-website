@@ -11,7 +11,7 @@ body {
 .container {
     display: block;
     margin: 0 auto;
-    position: fixed;
+    position: relative;
     width: 1590px;
     height: 1250px;
     background: url(Page2.gif);
@@ -31,7 +31,7 @@ body {
 
 #box_1 {
     background: url(Page2_PeaceLily.png);
-    top: 310px;
+    top: 300px;
     left: 1400px;
     position: absolute;
     width: 396px;
