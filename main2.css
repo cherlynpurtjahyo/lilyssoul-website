@@ -17,7 +17,7 @@ body {
     object-fit: cover;
     background-repeat: no-repeat;
     background-position: right;
-    background-size: cover;
+    background-size: 100%;
     
     
 }
