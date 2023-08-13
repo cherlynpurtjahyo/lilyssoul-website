@@ -15,6 +15,7 @@ body {
     width: 1590px;
     height: 1250px;
     background: url(Page2.gif);
+    object-fit: cover;
     background-repeat: no-repeat;
     background-position: right;
     background: contain;
