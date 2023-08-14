@@ -10,6 +10,7 @@ body {
 .container {
     display: block; 
     margin: 0 auto;
+    position: relative;
     width: 1590px;
     height: 3840px;
     background: url(Page10-11Scrolldown.png);
