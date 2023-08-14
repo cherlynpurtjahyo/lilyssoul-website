@@ -14,7 +14,6 @@ body {
     width: 1590px;
     height: 3840px;
     background-image: url(Page10-11Scrolldown.png);
-    object-fit: cover;
     background-repeat: no-repeat;
     background: contain;
 
