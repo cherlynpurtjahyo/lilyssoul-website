@@ -46,7 +46,7 @@ body {
 
     top: 3550px;
     left: 970px;
-    position: relative;
+    position: absolute;
     width: 115px;
     height: 108px;
     background: url(LoveButton.png);
